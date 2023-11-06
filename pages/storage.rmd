@@ -11,3 +11,8 @@ layout: default
 ```{r results="asis",echo = FALSE, message=F,warning=F}
 cat(readLines('../items/research_drive.md'), sep = '\n')
 ```
+
+
+```{r results="asis",echo = FALSE, message=F,warning=F}
+cat(readLines('../items/yoda.md'), sep = '\n')
+```
